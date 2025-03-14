@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap");
 
 :root {
-    --green: #27ae60;
+    --green: #1c5e94;
     --black: #444;
-    --orange: #ff8000;
+    --orange: #1c5e94;
     --light-color: #777;
     --bg-color: #e6e6e6;
     --border: 0.1rem solid rgba(0, 0, 0, 0.2);
@@ -348,6 +348,9 @@ section {
 
 .about .row .progress .bar-3-3 span {
     width: 85%;
+}
+.about .row .progress .bar-3-4 span {
+    width: 95%;
 }
 
 .services .box-container {
